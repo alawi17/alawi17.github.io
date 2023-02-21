@@ -40,7 +40,7 @@ body {
 }
 
 .left {
-  background-image: url("/images/bg-pattern-desktop.svg");
+  background-image: url("../images/bg-pattern-desktop.svg");
   background-size: cover;
   background-position: center center;
   width: 60%;
