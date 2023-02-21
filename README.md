@@ -25,7 +25,7 @@ This is a solution to the [Base Apparel coming soon page Challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/base-apparel-comingsoon-page-xfEOJbF55q)
 - Live Site URL: [Live Site](https://alawi17.github.io/alw-base-apparel-coming-soon/)
 
 ## My process
